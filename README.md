@@ -7,15 +7,25 @@
 
 - 🔭 I’m currently working on [Zyncly](zyncly.vercel.app)
 
-- 💻 Tech Stack & Skills **Frameworks & Libraries: Frontend: Next.js, React Backend: Flask, Django, Laravel Full-Stack Tools: XAMPP Data Expertise: Data Cleaning & Manipulation Data Analysis & Insights Generation**
+-💻 **Tech Stack & Skills**  
+**Frameworks & Libraries**:  
+- **Frontend**: Next.js, React  
+- **Backend**: Flask, Django, Laravel  
+- **Full-Stack Tools**: XAMPP  
+
+**Data Expertise**:  
+- Data Cleaning & Manipulation  
+- Data Analysis & Insights Generation  
 
 - 👨‍💻 All of my projects are available at [paul-portfolio-website-six.vercel.app/](paul-portfolio-website-six.vercel.app/)
 
-- 🌱What I’m Currently Exploring **I enjoy solving real-world problems through code, constantly sharpening my skills in AI/ML and web development. When I’m not coding, you’ll find me experimenting with new tools or diving deep into data-driven insights.**
+- 🌱What I’m Currently Exploring
+**I enjoy solving real-world problems through code, constantly sharpening my skills in AI/ML and web development. When I’m not coding, you’ll find me experimenting with new tools or diving deep into data-driven insights.**
 
 - 📫 How to reach me **delosreyesjohnpaul30@gmail.com**
 
-- ⚡ Fun fact **I believe that every problem has a solution—just like every bug has a fix (even if it takes a bit of caffeine)! ☕**
+- ⚡ Fun fact
+**I believe that every problem has a solution—just like every bug has a fix (even if it takes a bit of caffeine)! ☕**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
