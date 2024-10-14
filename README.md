@@ -4,6 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=delosreyesjohnpaul&label=Profile%20views&color=0e75b6&style=flat" alt="delosreyesjohnpaul" /> </p>
 
 🔭 I’m currently working on [Zyncly](https://zyncly.vercel.app/)
+- **Zyncly is an intuitive scheduling system designed to streamline meeting coordination. It allows users to share their availability effortlessly, enabling clients or team members to book appointments without the usual back-and-forth**. 
 
 💻 **Tech Stack & Skills**  
 **Frameworks & Libraries**:  
