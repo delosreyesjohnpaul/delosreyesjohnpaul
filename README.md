@@ -32,7 +32,8 @@
 
 📫 How to reach me **delosreyesjohnpaul30@gmail.com**
 
-⚡ Fun fact **I believe that every problem has a solution—just like every bug has a fix (even if it takes a bit of caffeine)! ☕**
+⚡ Fun fact 
+- **I believe that every problem has a solution—just like every bug has a fix (even if it takes a bit of caffeine)! ☕**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
