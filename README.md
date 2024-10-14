@@ -11,6 +11,16 @@
 - **Backend**: Flask, Django, Laravel  
 - **Full-Stack Tools**: XAMPP  
 
+**Programming Languages & Tools**:  
+- **Languages**: C, C++, C#, Java, JavaScript, Python, TypeScript, PHP, Go, Bash, SQL  
+- **Frameworks & Platforms**: Express, React Native, Flutter, Qt, Node.js, Appwrite  
+- **Data & Analytics**: Pandas, scikit-learn, TensorFlow, PyTorch, OpenCV, Kibana  
+- **Databases**: MySQL, MSSQL, PostgreSQL, MongoDB, Oracle, Firebase  
+- **DevOps & Containers**: Docker  
+- **UI/UX & Design**: Figma, Framer  
+- **Charting Tools**: CanvasJS, Chart.js  
+- **Scientific Tools**: MATLAB  
+
 **Data Expertise**:  
 - Data Cleaning & Manipulation  
 - Data Analysis & Insights Generation  
