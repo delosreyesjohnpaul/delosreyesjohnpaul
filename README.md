@@ -26,7 +26,7 @@
 - Data Cleaning & Manipulation  
 - Data Analysis & Insights Generation  
 
-👨‍💻 All of my projects are available at [paul-portfolio-website-six.vercel.app/](paul-portfolio-website-six.vercel.app/)
+👨‍💻 All of my projects are available at [paul-portfolio-website-six.vercel.app/](https://paul-portfolio-website-six.vercel.app/)
 
 🌱What I’m Currently Exploring
 - **I enjoy solving real-world problems through code, constantly sharpening my skills in AI/ML and web development. When I’m not coding, you’ll find me experimenting with new tools or diving deep into data-driven insights.**
