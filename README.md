@@ -3,17 +3,26 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=delosreyesjohnpaul&label=Profile%20views&color=0e75b6&style=flat" alt="delosreyesjohnpaul" /> </p>
 
-- 🔭 I’m currently working on [Zyncly](zyncly.vercel.app)
+🔭 I’m currently working on [Zyncly](zyncly.vercel.app)
 
-- 💻 Tech Stack & Skills **Frameworks & Libraries: Frontend: Next.js, React Backend: Flask, Django, Laravel Full-Stack Tools: XAMPP Data Expertise: Data Cleaning & Manipulation Data Analysis & Insights Generation**
+💻 **Tech Stack & Skills**  
+**Frameworks & Libraries**:  
+- **Frontend**: Next.js, React  
+- **Backend**: Flask, Django, Laravel  
+- **Full-Stack Tools**: XAMPP  
 
-- 👨‍💻 All of my projects are available at [paul-portfolio-website-six.vercel.app/](paul-portfolio-website-six.vercel.app/)
+**Data Expertise**:  
+- Data Cleaning & Manipulation  
+- Data Analysis & Insights Generation  
 
-- 🌱What I’m Currently Exploring **I enjoy solving real-world problems through code, constantly sharpening my skills in AI/ML and web development. When I’m not coding, you’ll find me experimenting with new tools or diving deep into data-driven insights.**
+👨‍💻 All of my projects are available at [paul-portfolio-website-six.vercel.app/](paul-portfolio-website-six.vercel.app/)
 
-- 📫 How to reach me **delosreyesjohnpaul30@gmail.com**
+🌱What I’m Currently Exploring
+- **I enjoy solving real-world problems through code, constantly sharpening my skills in AI/ML and web development. When I’m not coding, you’ll find me experimenting with new tools or diving deep into data-driven insights.**
 
-- ⚡ Fun fact **I believe that every problem has a solution—just like every bug has a fix (even if it takes a bit of caffeine)! ☕**
+📫 How to reach me **delosreyesjohnpaul30@gmail.com**
+
+⚡ Fun fact **I believe that every problem has a solution—just like every bug has a fix (even if it takes a bit of caffeine)! ☕**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
