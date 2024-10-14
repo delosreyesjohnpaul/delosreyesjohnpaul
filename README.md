@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=delosreyesjohnpaul&label=Profile%20views&color=0e75b6&style=flat" alt="delosreyesjohnpaul" /> </p>
 
-🔭 I’m currently working on [Zyncly](zyncly.vercel.app)
+🔭 I’m currently working on [Zyncly](https://zyncly.vercel.app/)
 
 💻 **Tech Stack & Skills**  
 **Frameworks & Libraries**:  
