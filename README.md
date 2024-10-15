@@ -51,4 +51,3 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=delosreyesjohnpaul&" alt="delosreyesjohnpaul" /></p>
 
-(https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)
