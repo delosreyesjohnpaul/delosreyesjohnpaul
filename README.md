@@ -1,4 +1,8 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&amp;color=7A92B8&amp;height=100&amp;section=header">
+<div align="center">
+  <a href="https://1999azzar.github.io/1999AZZAR/">
+  <img src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg" alt="snake"></a>
+</div>
 <h1 align="center">Hi 👋, I'm PaulDR</h1>
 <h3 align="center">Hi! I’m a Bachelor of Science in Computer Science (BSCS) student passionate about technology and innovation. My work revolves around Machine Learning, AI, and building intuitive web applications.</h3>
 
