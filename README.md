@@ -51,3 +51,7 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=delosreyesjohnpaul&" alt="delosreyesjohnpaul" /></p>
 
+<img src="https://raw.githubusercontent.com/delosreyesjohnpaul/delosreyesjohnpaul/output/snake.svg" alt="Snake animation" />
+
+###
+
