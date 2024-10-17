@@ -1,5 +1,5 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&amp;color=7A92B8&amp;height=100&amp;section=header">
-<h1 align="center">Hi 👋, I'm PaulDR</h1>
+<h1 align="center">Hi 👋, I'm PaulDR</h1> 
 <h3 align="center">Hi! I’m a Bachelor of Science in Computer Science (BSCS) student passionate about technology and innovation. My work revolves around Machine Learning, AI, and building intuitive web applications.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=delosreyesjohnpaul&label=Profile%20views&color=0e75b6&style=flat" alt="delosreyesjohnpaul" /> </p>
