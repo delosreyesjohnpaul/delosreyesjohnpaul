@@ -23,7 +23,7 @@
 - **Charting Tools**: CanvasJS, Chart.js  
 - **Scientific Tools**: MATLAB  
 
-**Data Expertise**:  
+**Data Expertise**: 
 - Data Cleaning & Manipulation  
 - Data Analysis & Insights Generation  
 
