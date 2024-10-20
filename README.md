@@ -32,7 +32,7 @@
 🌱What I’m Currently Exploring
 - **I enjoy solving real-world problems through code, constantly sharpening my skills in AI/ML and web development. When I’m not coding, you’ll find me experimenting with new tools or diving deep into data-driven insights.**
 
-📫 How to reach me **delosreyesjohnpaul30@gmail.com**
+📫 How to reach me **delosreyesjohnpaul30@gmail.com** 
 
 ⚡ Fun fact 
 - **I believe that every problem has a solution—just like every bug has a fix (even if it takes a bit of caffeine)! ☕**
