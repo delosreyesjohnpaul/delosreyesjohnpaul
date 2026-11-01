@@ -1,6 +1,8 @@
 <!-- GitHub Profile README — PaulDR | Updated November 2026 -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=215&color=0:0B1020,45:263A70,100:7C3AED&text=JOHN%20PAUL%20DELOS%20REYES&fontColor=FFFFFF&fontSize=32&fontAlignY=38&desc=FULL-STACK%20DEVELOPER%20%E2%80%A2%20SOFTWARE%20ENGINEERING%20%E2%80%A2%20AI%20%26%20DATA&descAlignY=59&descSize=13&animation=fadeIn" width="100%" alt="John Paul Delos Reyes — Full-Stack Developer" />  <a href="https://pauldr-portfolio.vercel.app/"><img src="https://img.shields.io/badge/PORTFOLIO-Explore%20my%20work-8B5CF6?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
+  <h1>JOHN PAUL DELOS REYES</h1>
+  <h3>Full-Stack Developer · Software Engineering · AI & Data</h3>
+  <p><em>Designing useful experiences. Engineering reliable systems.</em></p>  <a href="https://pauldr-portfolio.vercel.app/"><img src="https://img.shields.io/badge/PORTFOLIO-Explore%20my%20work-8B5CF6?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
 <a href="https://www.linkedin.com/in/delos-reyes-john-paul-26b028260/"><img src="https://img.shields.io/badge/LINKEDIN-Let's%20connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 <a href="mailto:delosreyesjohnpaul30@gmail.com"><img src="https://img.shields.io/badge/EMAIL-Get%20in%20touch-1F2937?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 
@@ -75,6 +77,4 @@ I enjoy taking products from early concepts to working systems — designing int
   <a href="mailto:delosreyesjohnpaul30@gmail.com"><img src="https://img.shields.io/badge/LET'S%20TALK-Send%20an%20email-8B5CF6?style=for-the-badge&logo=gmail&logoColor=white" alt="Contact PaulDR" /></a>
   <br/><br/>
   <sub>© 2026 John Paul Delos Reyes · Built with curiosity and care.</sub>
-  <br/>
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=90&section=footer&color=0:0B1020,50:263A70,100:7C3AED" width="100%" alt="" />
-</div>
+  <br/></div>
