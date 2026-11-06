@@ -1,6 +1,6 @@
 <!-- GitHub Profile README — PaulDR | Updated November 2026 -->
 <div align="center">
-  <h1>JOHN PAUL DELOS REYES</h1>
+  <h1>Haku</h1>
   <h3>Full-Stack Developer · Software Engineering · AI & Data</h3>
   <p><em>Designing useful experiences. Engineering reliable systems.</em></p>  <a href="https://pauldr-portfolio.vercel.app/"><img src="https://img.shields.io/badge/PORTFOLIO-Explore%20my%20work-8B5CF6?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
 <a href="https://www.linkedin.com/in/delos-reyes-john-paul-26b028260/"><img src="https://img.shields.io/badge/LINKEDIN-Let's%20connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
